@@ -42,7 +42,7 @@ body {
 .section__p {
   background-color: bisque;
   color: black;
- text-align: center;
+  text-align: center;
  padding: 1rem;
  position: relative;
  }
