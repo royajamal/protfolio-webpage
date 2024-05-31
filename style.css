@@ -61,10 +61,10 @@ body {
 /* Media Query for screens with max-width of 600px */
 @media (max-width: 600px) {
   #navbar ul {
-      flex-direction: column;
+  flex-direction: column;
   }
 
   #navbar a {
-      margin-bottom: 10px;
+  margin-bottom: 10px;
   }
 }
