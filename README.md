@@ -5,23 +5,11 @@
 > This project is our final project in this project we work from all project that we worked 
 
 
-<!-- Include code snippets or examples to demonstrate your project. -->
-
-/* body {
-  background-color: bisque;
-  margin: 10px;
-  padding: 10px;
-}. */
-
-//  <li><a class="nav__links" href="#welcome-section">About</a></li>
-            <li><a class="nav__links" href="#projects">Work</a></li>
-            <li><a class="nav__links" href="#contact".
-
 ## Demo 📸
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9)
+![Demo](img scr="https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9">)
 
 ## Technologies Used 🛠
 
@@ -31,19 +19,10 @@ Examples:
 
 - HTML
 - CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
 
 ## Installation 💻
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
-# clone the repository.
-
-# git bash
+#  bash
 # git clone..
 
 
@@ -53,8 +32,6 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 
 
 ## Author 👩‍💻
-
-Provide your name and a link to your Social Media profiles. You can also include your email address.
 
 - Website: (https://github.com/royajamal/protfolio-webpage)
 - Email: (royajamal2003@gmail.com)
