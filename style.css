@@ -65,13 +65,14 @@ body {
   color: #fff;
   text-decoration: none;
 }
+
 @media only screen and (width: 700px) {
   h1 {
-    font-size: 50px
+    font-size: 50px;
   }
+
   #projects .project-tile {
     height: 600px;
     width: 100%;
   }
 }
-
