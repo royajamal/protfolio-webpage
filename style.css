@@ -65,14 +65,13 @@ body {
   color: #fff;
   text-decoration: none;
 }
-
-/* Media Query for screens with max-width of 600px */
-@media (max-width: 600px) {
-  #navbar ul {
-    flex-direction: column;
+@media only screen and (width: 700px) {
+  h1 {
+    font-size: 50px
   }
-
-  #navbar a {
-    margin-bottom: 10px;
+  #projects .project-tile {
+    height: 600px;
+    width: 100%;
   }
 }
+
