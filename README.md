@@ -22,9 +22,9 @@ Examples:
 
 ## Installation 💻
 
-(bash)
+
 ('''# git clone https://github.com/royajamal/protfolio-webpage.git''')
-(vscode-github)
+
 
 
 ## Author 👩‍💻
