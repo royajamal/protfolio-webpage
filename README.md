@@ -23,7 +23,7 @@ Examples:
 ## Installation 💻
 
 
-('''# git clone https://github.com/royajamal/protfolio-webpage.git''')
+ git clone https://github.com/royajamal/protfolio-webpage.git
 
 
 
