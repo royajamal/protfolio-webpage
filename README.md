@@ -9,7 +9,7 @@
 ## Demo 📸
 
 
-![Demo](<img scr="https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9">)
+![Demo](https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9)
 
 ## Technologies Used 🛠
 
@@ -22,8 +22,8 @@ Examples:
 
 ## Installation 💻
 
-#  bash
-# git clone (https://github.com/royajamal/protfolio-webpage.git)
+(bash)
+('''# git clone https://github.com/royajamal/protfolio-webpage.git''')
 (vscode-github)
 
 
