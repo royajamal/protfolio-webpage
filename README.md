@@ -8,9 +8,8 @@
 
 ## Demo 📸
 
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](img scr="https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9">)
+![Demo](<img scr="https://github.com/royajamal/protfolio-webpage/assets/168343975/66e64e0d-b3d9-44d4-a297-b78ab66b6ac9">)
 
 ## Technologies Used 🛠
 
@@ -24,19 +23,15 @@ Examples:
 ## Installation 💻
 
 #  bash
-# git clone..
+# git clone (https://github.com/royajamal/protfolio-webpage.git)
 (vscode-github)
-
-
-
-
 
 
 ## Author 👩‍💻
 
 - Website: (https://github.com/royajamal/protfolio-webpage)
 - Email: (royajamal2003@gmail.com)
-
+- linkedln: (https://www.linkedin.com/in/roya-jamal-2070b330a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## License 📜
 MIT License
